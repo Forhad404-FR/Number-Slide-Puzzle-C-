@@ -6,18 +6,19 @@ The game runs in the terminal and offers three difficulty levels, randomized puz
 
 ## Project Screenshots
 
+## 📸 Project Screenshots
+
 ### Main Menu
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](screenshots/1.png)
 
 ### How to Play
-![How to Play](screenshots/how-to-play.png)
+![How to Play](screenshots/2.png)
 
 ### Easy Level
-![Easy Level](screenshots/easy-level.png)
+![Easy Level](screenshots/3.png)
 
 ### Medium Level
-![Medium Level](screenshots/medium-level.png)
-
+![Medium Level](screenshots/4.png)
 ## Features
 
 - **Interactive Main Menu** – Start a new game, view instructions, or exit.
